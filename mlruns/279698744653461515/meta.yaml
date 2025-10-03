@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/HP/Desktop/Dc/Unfinished%20Projects/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/mlruns/279698744653461515
+creation_time: 1759508513404
+experiment_id: '279698744653461515'
+last_update_time: 1759508513404
+lifecycle_stage: active
+name: Temp_pred_model

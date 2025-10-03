@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/Dc/Unfinished%20Projects/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/mlruns/279698744653461515/018bcc5d1c824f0888e81f951ca3c6bd/artifacts
+end_time: 1759510239988
+entry_point_name: ''
+experiment_id: '279698744653461515'
+lifecycle_stage: active
+run_id: 018bcc5d1c824f0888e81f951ca3c6bd
+run_name: persistent-panda-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759510239802
+status: 3
+tags: []
+user_id: HP
