@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/Dc/Unfinished%20Projects/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/mlruns/444573959879014688/6572721a42be4615a63775d02817d1cd/artifacts
+deleted_time: 1759492923489
+end_time: 1759490245237
+entry_point_name: ''
+experiment_id: '444573959879014688'
+lifecycle_stage: deleted
+run_id: 6572721a42be4615a63775d02817d1cd
+run_name: chill-kit-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759490196966
+status: 3
+tags: []
+user_id: HP

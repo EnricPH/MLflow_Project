@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Desktop/Dc/Unfinished%20Projects/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/mlruns/444573959879014688/93915179fd0b41e59140cc411c715f9a/artifacts
+deleted_time: 1759492923504
+end_time: 1759490490336
+entry_point_name: ''
+experiment_id: '444573959879014688'
+lifecycle_stage: deleted
+run_id: 93915179fd0b41e59140cc411c715f9a
+run_name: painted-finch-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759490317365
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/HP/Desktop/Dc/Unfinished%20Projects/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/7.%20%28Project%20-%20ML%20mlflow%29%20Predicting%20Temperature%20in%20London/mlruns/444573959879014688/d49fbce2e7574aac9b12dda89270fadd/artifacts
+end_time: 1759492398964
+entry_point_name: ''
+experiment_id: '444573959879014688'
+lifecycle_stage: active
+run_id: d49fbce2e7574aac9b12dda89270fadd
+run_name: intrigued-worm-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759490755476
+status: 3
+tags: []
+user_id: HP
